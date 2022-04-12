@@ -103,4 +103,10 @@ export default {
   src: local("fred"),
     url(../assets/shriftlar/FredokaOne-Regular.ttf) format("truetype");
 }
+
+@font-face {
+  font-family: "ubuntuMono";
+  src: local("frubuntuMonoed"),
+    url(../assets/shriftlar/UbuntuMono-Bold.ttf) format("truetype");
+}
 </style>
